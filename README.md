@@ -4,7 +4,7 @@
 <ul>
   <li>💻 Software Engineering undergraduate at NIBM, Sri Lanka (BSc Hons Computing – Coventry University UK)</li>
   <li>🌐 Passionate about full-stack web development and application design</li>
-  <li>🔧 Skilled in HTML, CSS, JavaScript, React, Spring Boot, AngularJS, and Three.js</li>
+  <li>🔧 skilled in HTML, CSS, JavaScript, React, Spring Boot, AngularJS, and Three.js</li>
   <li>🖥️ Experienced in C#, Java, Kotlin, Arduino, and SQL-based applications</li>
   <li>🛠️ Familiar with development tools like Visual Studio, IntelliJ, VS Code, Android Studio, and Figma</li>
   <li>🧠 Quick learner with a strong focus on real-world problem solving and innovation</li>
