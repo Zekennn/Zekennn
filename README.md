@@ -1,5 +1,5 @@
 # About Me
-Hi I'm Senura Perera(Pure1)<br>Undergraduate Software Engineering student passionate about building practical and scalable solutions. I work with Azure, Java, Flutter, PHP, MySQL, React, and Next.js, and I enjoy blending development with creative design tools. Always learning, always building
+Hi I'm Senura Perera(Pure)<br>Undergraduate Software Engineering student passionate about building practical and scalable solutions. I work with Azure, Java, Flutter, PHP, MySQL, React, and Next.js, and I enjoy blending development with creative design tools. Always learning, always building
 
 
 
